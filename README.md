@@ -33,7 +33,11 @@ Predicts each cell type in the test set.
 
 
 ## Evaluation
-TBD
+### evaluate.py
+The model is evaluated using AUC for each cell type.
+
+### evaluate_f1.py
+The model is evaluated using F1 score, the harmonic mean of precision and recall. 
 
 ## Adapt to new dataset. 
 ### extract.py
