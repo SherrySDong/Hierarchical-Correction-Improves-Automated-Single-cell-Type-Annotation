@@ -43,3 +43,5 @@ The model is evaluated using F1 score, the harmonic mean of precision and recall
 ### extract.py
 Read in an example dataset in h5ad format and output the corresponding GEX_observation.txt and GEX_feature.txt files
 Then modify the predict_deeplearning.py to take in the data the user is interested in.
+
+Weight files are available at https://osf.io/zq6b2/?view_only=240d15a0ab1a48c7888e8e348faf5287.
